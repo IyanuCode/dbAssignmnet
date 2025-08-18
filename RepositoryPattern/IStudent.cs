@@ -8,6 +8,7 @@ namespace dbAssignmnet.RepositoryPattern
         string InsertValues();
         string Update();
         string Delete();
-        List<StudentModel> GetAll(); 
+        List<StudentModel> GetAll();
+        List<StudentModel> GetById();
     }
 }

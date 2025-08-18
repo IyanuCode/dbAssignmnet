@@ -19,9 +19,11 @@ namespace dbAssignmnet
             //serviceClass.ServiceMethod();
             //students.CreateDB("CsharpStudent");
             //serviceClass.InsertInfo();
-            //serviceClass.UpdateValue();
-            serviceClass.DeleteValue();
-
+            serviceClass.UpdateValue();
+            //serviceClass.DeleteValue();
+            //serviceClass.GetAllStudents();
+            //serviceClass.GetAllStudents();
+            //serviceClass.GetSingleId();
 
 
 
